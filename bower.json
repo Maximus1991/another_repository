@@ -1,0 +1,20 @@
+{
+  "name": "settings",
+  "description": "setting for BrainAcad project grunt",
+  "main": "app/index.html",
+  "authors": [
+    "Aleksey Bilous <alekseybilous@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/alekseybilous/settings",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}

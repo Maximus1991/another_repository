@@ -1,0 +1,31 @@
+{
+  "name": "settings",
+  "version": "1.0.0",
+  "description": "setting for BrainAcad project grunt",
+  "main": "app/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "grunt --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alekseybilous/settings.git"
+  },
+  "author": "Aleksey Bilous <alekseybilous@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alekseybilous/settings/issues"
+  },
+  "homepage": "https://github.com/alekseybilous/settings#readme",
+  "devDependencies": {
+    "grunt": "~0.4.4",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-cssmin": "latest",
+    "grunt-contrib-jshint": "latest",
+    "grunt-contrib-less": "latest",
+    "grunt-contrib-uglify": "latest",
+    "grunt-contrib-watch": "latest",
+    "jshint-stylish": "latest"
+  }
+}
